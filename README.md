@@ -17,7 +17,9 @@ Task manager app with the following features:
 ##### Technologies used
 
     - Node.Js
-    - Express.Js
+    - Express
+    - MongoDB
+    - Mongoose
 
 <hr style="border:1px dotted lightblue"> </hr>
 
